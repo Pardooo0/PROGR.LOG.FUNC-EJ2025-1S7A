@@ -1,0 +1,7 @@
+-- ifThenElse: Función que simula un operador ternario, devolviendo uno de dos valores según la condición.
+-- lessThan20: Convierte números menores de 20 a su representación en palabras.
+-- tens: Devuelve la representación en palabras de las decenas (20, 30, ..., 90).
+-- number: Convierte números entre 1 y 100 a su representación en palabras.
+-- fizzbuzz: Devuelve "Fizz!" si el número es múltiplo de 5, "Buzz!" si es múltiplo de 3,
+-- "FizzBuzz!" si es múltiplo de ambos, o la representación en palabras del número en otros casos.
+-- main: Función principal que solicita un número al usuario, lo procesa con fizzbuzz y muestra el resultado.
